@@ -1,2 +1,2 @@
 # Traning
- git t
+ git tutorial
