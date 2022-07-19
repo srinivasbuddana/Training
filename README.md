@@ -1,0 +1,2 @@
+# Traning
+ git t
